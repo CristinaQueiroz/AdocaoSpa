@@ -15,10 +15,10 @@ Este é um projeto **HTML + CSS + JavaScript puro** que replica as telas mostrad
    - `#/home` – início
    - `#/favorites` – favoritos
    - `#/account` – conta
-
+## aaaaa
 Ou apenas navegue pelos botões.
 
-## Estrutura
+## Estrutura 
 ```
 adocao-spa/
   index.html          # ponto de entrada
